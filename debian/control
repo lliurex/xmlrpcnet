@@ -1,0 +1,13 @@
+Source: xmlrpcnet
+Section: utils
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: debhelper (>= 7.0), cdbs, cli-common-dev
+Standards-Version: 3.8.4
+
+Package: xmlrpcnet
+Architecture: all
+Depends: mono-runtime , antlr-tools  
+Description: provides a CLI library for xmlrpc
+ Library to work with XMLRPC servers using Mono
+

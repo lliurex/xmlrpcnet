@@ -1,0 +1,41 @@
+xmlrpcnet (2.5.0+lliurex10) bionic; urgency=medium
+
+  * First bionic release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 25 Jan 2019 13:47:38 +0100
+
+xmlrpcnet (2.5.0+lliurex7) xenial; urgency=high
+
+  * First xenial release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 08 Feb 2016 11:52:55 +0100
+
+xmlrpcnet (2.5.0+lliurex5) trusty; urgency=high
+
+  * First trusty release
+
+ -- Hector Garcia Huerta <cless@anubis.lliurex.fs>  Tue, 07 May 2013 08:37:53 +0200
+
+xmlrpcnet (2.5.0+lliurex4) precise; urgency=low
+
+  * Fixed rules and control dependences
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Mon, 06 May 2013 14:13:29 +0200
+
+xmlrpcnet (2.5.0+lliurex3) precise; urgency=low
+
+  * PANDORA RELEASE
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Tue, 14 Feb 2012 09:54:33 +0100
+
+xmlrpcnet (2.5.0+lliurex2) unstable; urgency=low
+
+  * Incremented timeout time
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Fri, 01 Jul 2011 13:02:18 +0200
+
+xmlrpcnet (2.5.0+lliurex1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Wed, 13 Apr 2011 17:10:01 +0200
