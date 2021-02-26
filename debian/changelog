@@ -1,3 +1,9 @@
+xmlrpcnet (2.5.0+lliurex11) focal; urgency=medium
+
+  * First focal release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 26 Feb 2021 11:35:03 +0100
+
 xmlrpcnet (2.5.0+lliurex10) bionic; urgency=medium
 
   * First bionic release
