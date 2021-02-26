@@ -7,7 +7,7 @@ Standards-Version: 3.8.4
 
 Package: xmlrpcnet
 Architecture: all
-Depends: mono-runtime , antlr-tools  
+Depends: mono-runtime
 Description: provides a CLI library for xmlrpc
  Library to work with XMLRPC servers using Mono
 
