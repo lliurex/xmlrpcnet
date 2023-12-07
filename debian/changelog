@@ -1,3 +1,9 @@
+xmlrpcnet (2.5.0+lliurex23) jammy; urgency=medium
+
+  * First jammy release 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 07 Dec 2023 09:12:33 +0100
+
 xmlrpcnet (2.5.0+lliurex12) focal; urgency=medium
 
   * First focal release
